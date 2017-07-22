@@ -1,0 +1,22 @@
+{
+  "name": "jubi-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.0.1",
+    "cli-table-cjk": "0.0.1",
+    "cli-table2": "^0.2.0",
+    "co": "^4.6.0",
+    "moment": "^2.18.1",
+    "tty-table": "^2.5.3",
+    "underscore": "^1.8.3",
+    "urllib": "^2.23.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
